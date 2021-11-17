@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSheep", "BlackSheep\BlackSheep.csproj", "{8A412B38-0A95-4DE0-9690-64570DEA27F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seasons", "Seasons\Seasons.csproj", "{41F72007-750E-469B-A731-ADA4F2600656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomQuote", "RandomQuote\RandomQuote.csproj", "{3D34C63A-3F79-4B2C-9B5D-4A80A9A7C8A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A412B38-0A95-4DE0-9690-64570DEA27F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A412B38-0A95-4DE0-9690-64570DEA27F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A412B38-0A95-4DE0-9690-64570DEA27F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A412B38-0A95-4DE0-9690-64570DEA27F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F72007-750E-469B-A731-ADA4F2600656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F72007-750E-469B-A731-ADA4F2600656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F72007-750E-469B-A731-ADA4F2600656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F72007-750E-469B-A731-ADA4F2600656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D34C63A-3F79-4B2C-9B5D-4A80A9A7C8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D34C63A-3F79-4B2C-9B5D-4A80A9A7C8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D34C63A-3F79-4B2C-9B5D-4A80A9A7C8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D34C63A-3F79-4B2C-9B5D-4A80A9A7C8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095394C3-84E2-46CB-915C-F17183B76A81}
+	EndGlobalSection
+EndGlobal
